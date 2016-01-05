@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.chart.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.factrus.main.controller.views.TileViewController">
+	<children>
+		<BorderPane AnchorPane.bottomAnchor="50.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="50.0">
+			<center>
+				<StackPane prefHeight="150.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+					<children>
+						<!-- Back View -->
+						<Pane fx:id="applicationDetailPane" maxWidth="1003.0" minWidth="1003.0" prefWidth="1003.0" styleClass="applicationDetailPane">
+                     <children>
+                        <Label fx:id="appDetail_name" layoutX="600.0" text="Name: ">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Button fx:id="closeAppDetail" layoutX="950.0" layoutY="10.0" mnemonicParsing="false" text="Close" />
+                        <Label fx:id="appDetail_developer" layoutX="600.0" layoutY="50.0" text="Developer: ">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="appDetail_downloads" layoutX="600.0" layoutY="100.0" text="Downloads: ">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="appDetail_rating" layoutX="600.0" layoutY="150.0" text="Rating (/5): ">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="appDetail_price" layoutX="600.0" layoutY="200.0" text="Price: ">
+                           <font>
+                              <Font size="18.0" />
+                           </font>
+                        </Label>
+                        <StackPane prefWidth="550.0">
+                           <children>
+                              <Pane fx:id="barPane" prefWidth="500.0" styleClass="whiteBackground">
+                                 <children>
+                                    <BarChart fx:id="appDetail_barating" legendVisible="false" prefHeight="550.0" prefWidth="550.0" title="Rating Per Stars">
+                                      <xAxis>
+                                        <CategoryAxis side="BOTTOM" />
+                                      </xAxis>
+                                      <yAxis>
+                                        <NumberAxis side="LEFT" />
+                                      </yAxis>
+                                    </BarChart>
+                                 </children>
+                              </Pane>
+                              <Pane fx:id="piePane" prefWidth="500.0" styleClass="whiteBackground">
+                                 <children>
+                                    <PieChart fx:id="appDetail_pierating" prefHeight="550.0" prefWidth="550.0" title="Rating Per Stars" />
+                                 </children>
+                              </Pane>
+                           </children>
+                           <padding>
+                              <Insets top="30.0" />
+                           </padding>
+                        </StackPane>
+                        <Button fx:id="switchGraph" mnemonicParsing="false" text="Switch Graph" />
+                        <ImageView fx:id="largeIcon" fitHeight="300.0" fitWidth="300.0" layoutX="600.0" layoutY="250.0" pickOnBounds="true" preserveRatio="true" />
+                     </children></Pane>
+						<!-- Front View -->
+						<ScrollPane fx:id="appScrollPane" maxWidth="1003.0" minWidth="1003.0" prefWidth="1003.0" styleClass="appScrollPane">
+							<content>
+								<TilePane fx:id="tileAppView" maxWidth="1000.0" minWidth="1000.0" prefColumns="5" prefTileHeight="200.0" prefTileWidth="200.0" prefWidth="1000.0" styleClass="tileAppView" />
+							</content>
+						</ScrollPane>
+					</children>
+				</StackPane>
+			</center>
+		</BorderPane>
+	</children>
+</AnchorPane>

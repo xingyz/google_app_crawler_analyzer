@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="230.0" prefWidth="400.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+   <children>
+      <Label layoutX="137.0" layoutY="14.0" prefHeight="46.0" prefWidth="127.0" text="FactrUs" textAlignment="CENTER" AnchorPane.leftAnchor="137.0" AnchorPane.rightAnchor="136.0">
+         <font>
+            <Font name="Calibri Bold Italic" size="40.0" />
+         </font>
+      </Label>
+      <Label layoutX="159.0" layoutY="199.0" text="Copyright 2014" />
+      <Label layoutX="242.0" layoutY="160.0" text="Nicolas HUSSER" />
+      <Label layoutX="65.0" layoutY="93.0" text="Amanda Tom" />
+      <Label layoutX="65.0" layoutY="116.0" text="Danvi Vu-Nguyen" />
+      <Label layoutX="65.0" layoutY="139.0" text="Julien Edmond" />
+      <Label layoutX="242.0" layoutY="136.0" text="Robert Dubois" />
+      <Label layoutX="242.0" layoutY="113.0" text="Icaro Freitas" />
+      <Label layoutX="242.0" layoutY="90.0" text="Eric Bonneau" />
+      <Label layoutX="242.0" layoutY="67.0" text="Alfonso Caruanna " />
+      <Label layoutX="65.0" layoutY="163.0" text="Jian Liu" />
+      <Label layoutX="37.0" layoutY="70.0" text="Prof: Juergen Rilling">
+         <font>
+            <Font name="System Italic" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

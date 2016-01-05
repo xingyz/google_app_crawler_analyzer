@@ -1,0 +1,63 @@
+
+#lbl_helloWorld {
+	-fx-border-color:#000;
+	-fx-border-width:1px;
+	-fx-font-size:40px;
+	-fx-padding:10px;
+}
+
+.text_field {
+	-fx-font-size:25px;
+}
+
+.tab_title {
+	-fx-font-size:18px;
+}
+
+.appScrollPane {
+	-fx-background:#fff;
+	-fx-border-style:none;
+}
+
+.applicationDetailPane {
+	-fx-background-color:#fff;
+	-fx-border-style:none;
+	-fx-opacity:0.98;
+}
+
+.whiteBackground {
+	-fx-background-color:#fff;
+	-fx-border-style:none;
+}
+
+.tile {
+	-fx-border-color: rgba(0,0,0,0.3);
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 10, 0, 0, 0);
+}
+
+.tile_hover {
+	-fx-border-color: rgba(0,0,0,1);
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.9), 20, 0, 0, 0);
+}
+	
+.scroll-pane {
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+}
+
+.scroll-pane:focused {
+    -fx-background-insets: 0;
+}
+
+.scroll-pane .corner {
+    -fx-background-insets: 0;
+}
+
+.chart-title {
+  -fx-underline:true;
+  -fx-font-size: 1.6em;
+}
+
+/* Helper classes */
+.visible   {	visibility:visible;		}
+.invisible {	visibility:hidden;		}

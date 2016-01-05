@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.factrus.main.controller.tabs.TabApplicationsController">
+	<children>
+		<BorderPane AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+
+			<top>
+				<AnchorPane prefHeight="50.0" prefWidth="634.0" BorderPane.alignment="CENTER">
+					<children>
+						<ComboBox fx:id="searchApp" editable="true" layoutX="14.0" layoutY="13.0"  prefWidth="400.0" promptText="Look for an app..." styleClass="text_field" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="10.0" />
+					</children>
+				</AnchorPane>
+			</top>
+			<center>
+				<fx:include fx:id="list_view_box" source="../custom/list_view_box.fxml" />
+			</center>
+		</BorderPane>
+	</children>
+</AnchorPane>

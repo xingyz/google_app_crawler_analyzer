@@ -1,0 +1,605 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://factrus/prop#"
+    xmlns:j.1="http://factrus/app#" > 
+  <rdf:Description rdf:about="http://factrus/app#com.king.farmheroessaga">
+    <j.0:SEMrush_links>404</j.0:SEMrush_links>
+    <j.0:StarOne>229,580</j.0:StarOne>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarThree>338,768</j.0:StarThree>
+    <j.0:AppName>Farm Heroes Saga</j.0:AppName>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:AppDevelopper>King</j.0:AppDevelopper>
+    <j.0:StarTwo>142,428</j.0:StarTwo>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:StarFour>812,386</j.0:StarFour>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:AppRating>4.3</j.0:AppRating>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Downloads>4,228,001</j.0:Downloads>
+    <j.0:StarFive>2,704,833</j.0:StarFive>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Google_pagerank>n/a</j.0:Google_pagerank>
+    <j.0:AppIcon>https://lh6.ggpht.com/HsCq84uTT7K1wpZMujCnxMF4JMb-pV3qSPyx5fvMEvBPBOhys2YhibtXYPphC3SCa3k=w300</j.0:AppIcon>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#">
+    <j.1:com.dropbox.android rdf:resource="http://factrus/app#com.dropbox.android"/>
+    <j.1:net.dinglisch.android.taskerm rdf:resource="http://factrus/app#net.dinglisch.android.taskerm"/>
+    <j.1:com.skype.raider rdf:resource="http://factrus/app#com.skype.raider"/>
+    <j.1:com.mapfactor.navigator rdf:resource="http://factrus/app#com.mapfactor.navigator"/>
+    <j.1:com.venticake.retrica rdf:resource="http://factrus/app#com.venticake.retrica"/>
+    <j.1:com.snapchat.android rdf:resource="http://factrus/app#com.snapchat.android"/>
+    <j.1:com.facebook.katana rdf:resource="http://factrus/app#com.facebook.katana"/>
+    <j.1:com.yahoo.mobile.client.android.mail rdf:resource="http://factrus/app#com.yahoo.mobile.client.android.mail"/>
+    <j.1:com.android.chrome rdf:resource="http://factrus/app#com.android.chrome"/>
+    <j.1:jp.naver.line.android rdf:resource="http://factrus/app#jp.naver.line.android"/>
+    <j.1:com.sand.airdroid rdf:resource="http://factrus/app#com.sand.airdroid"/>
+    <j.1:com.instagram.android rdf:resource="http://factrus/app#com.instagram.android"/>
+    <j.1:com.google.android.apps.docs rdf:resource="http://factrus/app#com.google.android.apps.docs"/>
+    <j.1:com.ea.game.simpsons4_row rdf:resource="http://factrus/app#com.ea.game.simpsons4_row"/>
+    <j.1:org.telegram.messenger rdf:resource="http://factrus/app#org.telegram.messenger"/>
+    <j.1:com.supercell.hayday rdf:resource="http://factrus/app#com.supercell.hayday"/>
+    <j.1:com.google.android.googlequicksearchbox rdf:resource="http://factrus/app#com.google.android.googlequicksearchbox"/>
+    <j.1:com.google.android.play.games rdf:resource="http://factrus/app#com.google.android.play.games"/>
+    <j.1:com.adobe.reader rdf:resource="http://factrus/app#com.adobe.reader"/>
+    <j.1:org.mozilla.firefox rdf:resource="http://factrus/app#org.mozilla.firefox"/>
+    <j.1:com.king.farmheroessaga rdf:resource="http://factrus/app#com.king.farmheroessaga"/>
+    <j.1:com.bbm rdf:resource="http://factrus/app#com.bbm"/>
+    <j.1:com.viber.voip rdf:resource="http://factrus/app#com.viber.voip"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.viber.voip">
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:StarThree>457,046</j.0:StarThree>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:SEMrush_links>1102</j.0:SEMrush_links>
+    <j.0:StarTwo>196,857</j.0:StarTwo>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:StarOne>340,010</j.0:StarOne>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Downloads>5,817,445</j.0:Downloads>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppDevelopper>Viber Media S.à r.l.</j.0:AppDevelopper>
+    <j.0:StarFour>1,038,167</j.0:StarFour>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:AppIcon>https://lh5.ggpht.com/jWKeAZUzPtUqgZdcLDSa7vd3iwdan8QX4nlYlHBMkJHcxwr-uZU40vDmrMKczCmiCBRf=w300</j.0:AppIcon>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:AppName>Viber</j.0:AppName>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:AppRating>4.3</j.0:AppRating>
+    <j.0:StarFive>3,785,328</j.0:StarFive>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.facebook.katana">
+    <j.0:StarOne>3,059,311</j.0:StarOne>
+    <j.0:AppRating>4.0</j.0:AppRating>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:StarThree>2,292,420</j.0:StarThree>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:AppDevelopper>Facebook</j.0:AppDevelopper>
+    <j.0:SEMrush_links>11487</j.0:SEMrush_links>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:StarFive>13,477,958</j.0:StarFive>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+    <j.0:StarTwo>1,163,402</j.0:StarTwo>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:StarFour>3,847,313</j.0:StarFour>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Downloads>23,846,063</j.0:Downloads>
+    <j.0:AppIcon>https://lh5.ggpht.com/_XklY7dK6yGsYt53X15RIp7-tbdjWMwQwl_iUAcW-uSq_8zAprmywdn5DQfBHvxZurs1=w300</j.0:AppIcon>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:AppName>Facebook</j.0:AppName>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:Whois>whois</j.0:Whois>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#net.dinglisch.android.taskerm">
+    <j.0:AppIcon>https://lh3.ggpht.com/5K71mXi2uEXHpWsVY62F1ItB47MgXoCjAFABgu6MqPUjwDCP5KFlLNLWysQVebnEwF8=w300</j.0:AppIcon>
+    <j.0:StarThree>1,077</j.0:StarThree>
+    <j.0:AppPrice>$3.99</j.0:AppPrice>
+    <j.0:SEMrush_links>1002</j.0:SEMrush_links>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:StarFive>23,148</j.0:StarFive>
+    <j.0:StarOne>758</j.0:StarOne>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:AppDevelopper>Crafty Apps EU</j.0:AppDevelopper>
+    <j.0:StarTwo>484</j.0:StarTwo>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarFour>4,254</j.0:StarFour>
+    <j.0:Downloads>29,729</j.0:Downloads>
+    <j.0:AppRating>4.6</j.0:AppRating>
+    <j.0:AppName>Tasker</j.0:AppName>
+    <j.0:Google_pagerank>6</j.0:Google_pagerank>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.supercell.hayday">
+    <j.0:AppRating>4.4</j.0:AppRating>
+    <j.0:AppName>Hay Day</j.0:AppName>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:StarFive>3,101,570</j.0:StarFive>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:StarThree>269,944</j.0:StarThree>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarFour>605,852</j.0:StarFour>
+    <j.0:StarOne>264,399</j.0:StarOne>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:SEMrush_links>67</j.0:SEMrush_links>
+    <j.0:AppDevelopper>Supercell</j.0:AppDevelopper>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Google_pagerank>0</j.0:Google_pagerank>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:Downloads>4,376,139</j.0:Downloads>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:AppIcon>https://lh5.ggpht.com/BB5tWdFil3EXYXW4BWrz_mneiRkVoWDnQpLwOjeG0NW13sWGtZ14lPHALna3Bu6M0A=w300</j.0:AppIcon>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:StarTwo>134,373</j.0:StarTwo>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.google.android.apps.docs">
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Downloads>646,934</j.0:Downloads>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:AppIcon>https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300</j.0:AppIcon>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+    <j.0:StarTwo>20,841</j.0:StarTwo>
+    <j.0:StarFive>408,680</j.0:StarFive>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppDevelopper>Google Inc.</j.0:AppDevelopper>
+    <j.0:AppRating>4.3</j.0:AppRating>
+    <j.0:StarOne>36,305</j.0:StarOne>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:StarFour>128,395</j.0:StarFour>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:SEMrush_links>2859</j.0:SEMrush_links>
+    <j.0:AppName>Google Drive</j.0:AppName>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarThree>52,707</j.0:StarThree>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.sand.airdroid">
+    <j.0:Downloads>341,234</j.0:Downloads>
+    <j.0:SEMrush_links>1483</j.0:SEMrush_links>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:StarFive>256,442</j.0:StarFive>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:StarFour>49,223</j.0:StarFour>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:AppRating>4.6</j.0:AppRating>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:AppIcon>https://lh3.ggpht.com/DfO0dH9b6_0XiVZMovikB3UXfpDlExadOTo0Bdq6MYIazgnT0uNEfxg7ugx5my8rakI=w300</j.0:AppIcon>
+    <j.0:AppDevelopper>SAND STUDIO</j.0:AppDevelopper>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:StarThree>15,629</j.0:StarThree>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:AppName>AirDroid - Android on Computer</j.0:AppName>
+    <j.0:Google_pagerank>6</j.0:Google_pagerank>
+    <j.0:StarOne>13,201</j.0:StarOne>
+    <j.0:StarTwo>6,736</j.0:StarTwo>
+    <j.0:Page_source>source</j.0:Page_source>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.snapchat.android">
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:AppDevelopper>Snapchat, Inc.</j.0:AppDevelopper>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:SEMrush_links>223</j.0:SEMrush_links>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Downloads>2,248,206</j.0:Downloads>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:StarTwo>123,643</j.0:StarTwo>
+    <j.0:StarFour>394,340</j.0:StarFour>
+    <j.0:AppRating>4.0</j.0:AppRating>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:StarThree>245,639</j.0:StarThree>
+    <j.0:Google_pagerank>6</j.0:Google_pagerank>
+    <j.0:StarOne>220,723</j.0:StarOne>
+    <j.0:StarFive>1,263,857</j.0:StarFive>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:AppIcon>https://lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w300</j.0:AppIcon>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppName>Snapchat</j.0:AppName>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#org.telegram.messenger">
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:StarTwo>48,213</j.0:StarTwo>
+    <j.0:AppRating>4.1</j.0:AppRating>
+    <j.0:StarThree>101,612</j.0:StarThree>
+    <j.0:Google_pagerank>0</j.0:Google_pagerank>
+    <j.0:Downloads>1,004,474</j.0:Downloads>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:AppIcon>https://lh4.ggpht.com/fuvTtxbZ1-dkEmzUMfKcgMJwW8PyY4fhJJ_NKT-NpIQJukszEY2GfCkJUF5ch6Co3w=w300</j.0:AppIcon>
+    <j.0:StarOne>75,671</j.0:StarOne>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:AppDevelopper>Telegram Messenger LLP</j.0:AppDevelopper>
+    <j.0:AppName>Telegram</j.0:AppName>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:SEMrush_links>143</j.0:SEMrush_links>
+    <j.0:StarFive>574,083</j.0:StarFive>
+    <j.0:StarFour>204,895</j.0:StarFour>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.google.android.googlequicksearchbox">
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:StarTwo>31,391</j.0:StarTwo>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:StarThree>85,899</j.0:StarThree>
+    <j.0:StarFour>216,774</j.0:StarFour>
+    <j.0:AppDevelopper>Google Inc.</j.0:AppDevelopper>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:AppIcon>https://lh4.ggpht.com/DhjQ8DF-bF0azcf2YrOjCN0e1_0zN4cXSgwHuGmDiY97L46M1KTJJ5nDT38N0Pp4KJMM=w300</j.0:AppIcon>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:SEMrush_links>1169</j.0:SEMrush_links>
+    <j.0:StarFive>852,068</j.0:StarFive>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:AppRating>4.4</j.0:AppRating>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Downloads>1,256,561</j.0:Downloads>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:StarOne>70,396</j.0:StarOne>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:AppName>Google</j.0:AppName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.android.chrome">
+    <j.0:AppRating>4.2</j.0:AppRating>
+    <j.0:StarFour>402,700</j.0:StarFour>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:SEMrush_links>3620</j.0:SEMrush_links>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:StarThree>180,430</j.0:StarThree>
+    <j.0:Downloads>2,386,973</j.0:Downloads>
+    <j.0:AppDevelopper>Google Inc.</j.0:AppDevelopper>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:AppIcon>https://lh3.ggpht.com/O0aW5qsyCkR2i7Bu-jUU1b5BWA_NygJ6ui4MgaAvL7gfqvVWqkOBscDaq4pn-vkwByUx=w300</j.0:AppIcon>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:StarTwo>89,947</j.0:StarTwo>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Google_pagerank>8</j.0:Google_pagerank>
+    <j.0:StarFive>1,518,232</j.0:StarFive>
+    <j.0:StarOne>195,664</j.0:StarOne>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:AppName>Chrome Browser - Google</j.0:AppName>
+    <j.0:AppPrice>0</j.0:AppPrice>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.bbm">
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:AppIcon>https://lh5.ggpht.com/d7o6KRTgLB0olD5DfpKR44Mh9LxV_3UqAgjb7rTjsNKwDYK4YNcNUsw4nibSuIuSyNAm=w300</j.0:AppIcon>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:SEMrush_links>1458</j.0:SEMrush_links>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:AppRating>4.3</j.0:AppRating>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:StarTwo>105,478</j.0:StarTwo>
+    <j.0:AppName>BBM</j.0:AppName>
+    <j.0:StarOne>195,259</j.0:StarOne>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:StarFive>1,892,351</j.0:StarFive>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:AppDevelopper>BlackBerry Limited.</j.0:AppDevelopper>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:StarFour>548,966</j.0:StarFour>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:Google_pagerank>0</j.0:Google_pagerank>
+    <j.0:Downloads>2,979,986</j.0:Downloads>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarThree>237,930</j.0:StarThree>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.ea.game.simpsons4_row">
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:AppName>The Simpsons™: Tapped Out</j.0:AppName>
+    <j.0:SEMrush_links>277</j.0:SEMrush_links>
+    <j.0:Google_pagerank>5</j.0:Google_pagerank>
+    <j.0:AppDevelopper>ELECTRONIC ARTS</j.0:AppDevelopper>
+    <j.0:StarTwo>66,678</j.0:StarTwo>
+    <j.0:StarOne>167,659</j.0:StarOne>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:Downloads>2,063,839</j.0:Downloads>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppRating>4.3</j.0:AppRating>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:StarThree>131,173</j.0:StarThree>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarFour>287,253</j.0:StarFour>
+    <j.0:StarFive>1,411,074</j.0:StarFive>
+    <j.0:AppIcon>https://lh3.ggpht.com/0ABhQvJuoJNMGlFwOLxGkDZNuOMK7GCsR2Gg34b6LKyqrJ3kHVWmYNTwQIHiSmvNCumv=w300</j.0:AppIcon>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.yahoo.mobile.client.android.mail">
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:AppDevelopper>Yahoo</j.0:AppDevelopper>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:AppName>Yahoo Mail</j.0:AppName>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:StarThree>137,021</j.0:StarThree>
+    <j.0:StarOne>111,479</j.0:StarOne>
+    <j.0:AppRating>4.2</j.0:AppRating>
+    <j.0:StarFive>861,732</j.0:StarFive>
+    <j.0:StarTwo>58,504</j.0:StarTwo>
+    <j.0:SEMrush_links>421</j.0:SEMrush_links>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:StarFour>362,282</j.0:StarFour>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Downloads>1,531,418</j.0:Downloads>
+    <j.0:AppIcon>https://lh6.ggpht.com/yzhSae3SIKlwv9lBzpCWaexNKgpLHXvwnxyEE7_oW3SdMv604v-YtUcQnGCyAUpX1lcm=w300</j.0:AppIcon>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.skype.raider">
+    <j.0:StarOne>568,004</j.0:StarOne>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+    <j.0:StarTwo>260,985</j.0:StarTwo>
+    <j.0:StarFive>3,292,505</j.0:StarFive>
+    <j.0:Downloads>5,600,741</j.0:Downloads>
+    <j.0:AppDevelopper>Skype</j.0:AppDevelopper>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:StarThree>524,778</j.0:StarThree>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:AppRating>4.1</j.0:AppRating>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:StarFour>952,758</j.0:StarFour>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:AppIcon>https://lh5.ggpht.com/1CxNUEdzrREikWZoaHIU5J63x2gOxTb7R-ZIbJd51uPBFt0jUj8AX2bMOhKiIBcuAqtH=w300</j.0:AppIcon>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:AppName>Skype - free IM &amp; video calls</j.0:AppName>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:SEMrush_links>11024</j.0:SEMrush_links>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.mapfactor.navigator">
+    <j.0:Google_pagerank>6</j.0:Google_pagerank>
+    <j.0:AppRating>4.4</j.0:AppRating>
+    <j.0:StarThree>35,326</j.0:StarThree>
+    <j.0:StarFour>140,807</j.0:StarFour>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:StarFive>330,607</j.0:StarFive>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:AppIcon>https://lh6.ggpht.com/Al8iS4JCagjHhqzdDbCWlBLPEzYb5kygxeE0epunRxmOMNeA4WGUrZPwRQ8Ial0Skw=w300</j.0:AppIcon>
+    <j.0:SEMrush_links>285</j.0:SEMrush_links>
+    <j.0:StarOne>18,813</j.0:StarOne>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:AppDevelopper>MapFactor</j.0:AppDevelopper>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:StarTwo>8,783</j.0:StarTwo>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:Downloads>534,336</j.0:Downloads>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:AppName>MapFactor: GPS Navigation</j.0:AppName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#org.mozilla.firefox">
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Downloads>1,428,592</j.0:Downloads>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarThree>100,264</j.0:StarThree>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:StarTwo>48,647</j.0:StarTwo>
+    <j.0:AppName>Firefox Browser for Android</j.0:AppName>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:AppRating>4.4</j.0:AppRating>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:StarFour>245,576</j.0:StarFour>
+    <j.0:SEMrush_links>6817</j.0:SEMrush_links>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:Google_pagerank>8</j.0:Google_pagerank>
+    <j.0:StarFive>950,538</j.0:StarFive>
+    <j.0:AppDevelopper>Mozilla</j.0:AppDevelopper>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:StarOne>83,416</j.0:StarOne>
+    <j.0:AppIcon>https://lh5.ggpht.com/8PODwBXKk4L201m4IO1wifRDfbn4Q1JxNxOzj-5TXPJ85_S-vOqntLi7TsVyeFQM0w4=w300</j.0:AppIcon>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.instagram.android">
+    <j.0:AppDevelopper>Instagram</j.0:AppDevelopper>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:StarOne>537,813</j.0:StarOne>
+    <j.0:StarFive>12,498,837</j.0:StarFive>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:StarTwo>316,106</j.0:StarTwo>
+    <j.0:Google_pagerank>9</j.0:Google_pagerank>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:SEMrush_links>5520</j.0:SEMrush_links>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:AppName>Instagram</j.0:AppName>
+    <j.0:AppRating>4.5</j.0:AppRating>
+    <j.0:StarThree>947,328</j.0:StarThree>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:StarFour>3,028,859</j.0:StarFour>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:AppIcon>https://lh3.ggpht.com/vFpQP39LB60dli3n-rJnVvTM07dsvIzxrCL5xMiy1V4GV4unC1ifXkUExQ4N-DBCKwI=w300</j.0:AppIcon>
+    <j.0:Downloads>17,328,972</j.0:Downloads>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.adobe.reader">
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:AppName>Adobe Reader</j.0:AppName>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:StarTwo>60,068</j.0:StarTwo>
+    <j.0:StarFive>1,011,816</j.0:StarFive>
+    <j.0:StarFour>336,499</j.0:StarFour>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:AppRating>4.3</j.0:AppRating>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppIcon>https://lh6.ggpht.com/ZLjgOoauY6HLlNtQrNAPAVBwUdxcceTx6VF56tL3SeDc04q8sgVOoLGfmH55l929_g=w300</j.0:AppIcon>
+    <j.0:Google_pagerank>6</j.0:Google_pagerank>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:StarThree>143,665</j.0:StarThree>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:SEMrush_links>959</j.0:SEMrush_links>
+    <j.0:Downloads>1,652,520</j.0:Downloads>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:StarOne>100,136</j.0:StarOne>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:AppDevelopper>Adobe</j.0:AppDevelopper>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#jp.naver.line.android">
+    <j.0:AppRating>4.2</j.0:AppRating>
+    <j.0:StarThree>444,528</j.0:StarThree>
+    <j.0:Downloads>4,790,646</j.0:Downloads>
+    <j.0:AppName>LINE: Free Calls &amp; Messages</j.0:AppName>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:AppDevelopper>LINE Corporation</j.0:AppDevelopper>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:StarFive>2,877,282</j.0:StarFive>
+    <j.0:SEMrush_links>1071</j.0:SEMrush_links>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:StarTwo>209,895</j.0:StarTwo>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:AppIcon>https://lh5.ggpht.com/Lh_sznkrDDduQxN3ytGwfXisy7RF2YX4jhQsOULusWZJDe5OCr7elhPbzPONk7abwQ=w300</j.0:AppIcon>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:StarOne>406,089</j.0:StarOne>
+    <j.0:StarFour>852,813</j.0:StarFour>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.venticake.retrica">
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:StarThree>259,353</j.0:StarThree>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:Downloads>3,017,418</j.0:Downloads>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:AppRating>4.3</j.0:AppRating>
+    <j.0:StarOne>214,122</j.0:StarOne>
+    <j.0:StarFive>1,976,638</j.0:StarFive>
+    <j.0:AppIcon>https://lh6.ggpht.com/-FY7sPgv-8YWz5m-YqezPHJL8VXzIIN7W12loQo0QbICGTZErcVnaCGiGOZt-zDdcA=w300</j.0:AppIcon>
+    <j.0:SEMrush_links>42</j.0:SEMrush_links>
+    <j.0:StarFour>439,647</j.0:StarFour>
+    <j.0:AppDevelopper>Venticake</j.0:AppDevelopper>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:Google_pagerank>n/a</j.0:Google_pagerank>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:StarTwo>127,655</j.0:StarTwo>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:AppName>Retrica</j.0:AppName>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.dropbox.android">
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:SEMrush_links>1953</j.0:SEMrush_links>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:StarOne>39,044</j.0:StarOne>
+    <j.0:StarTwo>20,725</j.0:StarTwo>
+    <j.0:AppName>Dropbox</j.0:AppName>
+    <j.0:AppIcon>https://lh6.ggpht.com/fR_IJDfD1becp10IEaG2ly07WO4WW0LdZGUaNSrscqpgr9PI53D3Cp0yd2dXOgyux8w=w300</j.0:AppIcon>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+    <j.0:Google_pagerank>7</j.0:Google_pagerank>
+    <j.0:Downloads>944,939</j.0:Downloads>
+    <j.0:AppDevelopper>Dropbox, Inc.</j.0:AppDevelopper>
+    <j.0:StarThree>57,753</j.0:StarThree>
+    <j.0:StarFour>171,639</j.0:StarFour>
+    <j.0:AppRating>4.5</j.0:AppRating>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:StarFive>655,676</j.0:StarFive>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://factrus/app#com.google.android.play.games">
+    <j.0:Downloads>365,714</j.0:Downloads>
+    <j.0:Google_index>335000000</j.0:Google_index>
+    <j.0:AppIcon>https://lh5.ggpht.com/4FGu-qxd6JYpjLJmBkJgz5xoxCpcnX9s3JJ5NevI8v1GuW9E4kOQMr57-Hg5V2HIHxQ=w300</j.0:AppIcon>
+    <j.0:StarFour>56,046</j.0:StarFour>
+    <j.0:SEMrush_SE_Traffic_price>322894973</j.0:SEMrush_SE_Traffic_price>
+    <j.0:StarThree>34,538</j.0:StarThree>
+    <j.0:Whois>whois</j.0:Whois>
+    <j.0:SEMrush_linkdomain>54759638</j.0:SEMrush_linkdomain>
+    <j.0:SEMrush_Rank>4</j.0:SEMrush_Rank>
+    <j.0:Webarchive_age>n/a</j.0:Webarchive_age>
+    <j.0:AppName>Google Play Games</j.0:AppName>
+    <j.0:AppDevelopper>Google Inc.</j.0:AppDevelopper>
+    <j.0:Alexa_rank>1</j.0:Alexa_rank>
+    <j.0:Bing_index>n/a</j.0:Bing_index>
+    <j.0:Google_pagerank>6</j.0:Google_pagerank>
+    <j.0:Page_source>source</j.0:Page_source>
+    <j.0:AppRating>4.1</j.0:AppRating>
+    <j.0:StarTwo>16,431</j.0:StarTwo>
+    <j.0:StarOne>38,488</j.0:StarOne>
+    <j.0:StarFive>220,207</j.0:StarFive>
+    <j.0:AppPrice>0</j.0:AppPrice>
+    <j.0:SEMrush_links>731</j.0:SEMrush_links>
+    <j.0:Sitemap.xml>no</j.0:Sitemap.xml>
+  </rdf:Description>
+</rdf:RDF>

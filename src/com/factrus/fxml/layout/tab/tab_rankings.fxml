@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="255.0" prefWidth="368.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.factrus.main.controller.tabs.TabRankingsController">
+   <children>
+      <Label layoutY="6.0" text="Rank By:" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="10.0">
+         <font>
+            <Font name="Calibri" size="20.0" />
+         </font>
+      </Label>
+      <ChoiceBox fx:id="rankBy" layoutX="88.0" layoutY="9.0" prefWidth="150.0" AnchorPane.topAnchor="10.0" />
+   </children>
+</AnchorPane>
